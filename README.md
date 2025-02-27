@@ -6,7 +6,7 @@ This is an anonymous repository for a paper submitted to ICCV 2025
 </h3>
 
 
-<p align="center"><img width="100%" src="assets/banner.pdf"/></p>
+<p align="center"><img width="100%" src="assets/banner.jpg"/></p>
 
 ## Overview
 This repo contains the PyTorch-based implementation code for CollideNet and the related toolkit for multi-scale hierarchical Time-To-Collision forecasting.
@@ -45,7 +45,7 @@ This repo contains the PyTorch-based implementation code for CollideNet and the 
 
 ## Training VidNeXt
 
-<p align="center"><img width="100%" src="assets/arch_diag_comb.pdf"/></p>
+<p align="center"><img width="100%" src="assets/arch_diag_comb.jpg"/></p>
 
 - Run src/main.py with the required hyperparameter setting in arguments.
 ```    
