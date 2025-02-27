@@ -6,7 +6,7 @@ This is an anonymous repository for a paper submitted to ICCV 2025
 </h3>
 
 
-<p align="center"><img width="100%" src="assets/Graphical_abstract.png"/></p>
+<p align="center"><img width="100%" src="assets/banner.pdf"/></p>
 
 ## Overview
 This repo contains the PyTorch-based implementation code for CollideNet and the related toolkit for multi-scale hierarchical Time-To-Collision forecasting.
@@ -44,6 +44,9 @@ This repo contains the PyTorch-based implementation code for CollideNet and the 
 
 
 ## Training VidNeXt
+
+<p align="center"><img width="100%" src="assets/arch_diag_comb.pdf"/></p>
+
 - Run src/main.py with the required hyperparameter setting in arguments.
 ```    
 python src/main.py -dataset <DATASET_NAME> -vid_dir <PATH_TO_PREPROCESSED_VIDEOS> -model <MODEL_NAME> 
@@ -53,7 +56,7 @@ python src/main.py -dataset <DATASET_NAME> -vid_dir <PATH_TO_PREPROCESSED_VIDEOS
 
 ## Results
 
-## Comparison of Methods Across Datasets (MSE)
+### Comparison of Methods Across Datasets (MSE)
 
 | Methods                     | Backbone                      | CCD  | DoTA | DAD  |
 |-----------------------------|------------------------------|------|------|------|
