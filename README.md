@@ -82,10 +82,15 @@ _Italicized_ values represent the second-best result, and **bold** values indica
 
 ### Acknowledgements
 
-This project includes code borrowed from the following repositories:
-
+This project includes code and dataset borrowed from the following:
+- [Car Crash Dataset](https://github.com/Cogito2012/CarCrashDataset).
+- [Detection of Traffic Anomaly Dataset](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly/tree/master).
+- [Dashcam Accident Dataset](https://github.com/smallcorgi/Anticipating-Accidents).
+- [NearCollision](https://github.com/aashi7/NearCollision/tree/master).
 - [ViViT](https://github.com/google-research/vision_transformer) by Google Research.
 - [Non-stationary Trasnformer](https://github.com/thuml/Nonstationary_Transformers).
-- [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) by Facebook Research.
+- [VidNeXT](https://github.com/DeSinister/CycleCrash/blob/main/README.md).
 - [TimeSformer](https://github.com/facebookresearch/TimeSformer) by Facebook Research.
-- [3D ResNet, R(2+1)D, X3D](https://github.com/facebookresearch/pytorchvideo) by Facebook Research.
+- [3D ResNet, X3D](https://github.com/facebookresearch/pytorchvideo) by Facebook Research.
+- [Video Swin Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer) by Microsoft.
+- [Video FocalNets](https://github.com/TalalWasim/Video-FocalNets).
