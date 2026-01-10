@@ -1,8 +1,7 @@
-<h1 align="center">CollideNet: A Multi-Scale Hierarchical Approach for Time-To-Collision
-Forecasting</h1>
+<h1 align="center">CollideNet: Hierarchical Multi-scale Video Representation Learning with Disentanglement for Time-To-Collision Forecasting</h1>
 
 <h3 align="center">
-This is an anonymous repository for a paper submitted to ICCV 2025
+This is an anonymous repository for a paper submitted to ICPR 2026
 </h3>
 
 
@@ -94,3 +93,4 @@ This project includes code and dataset borrowed from the following:
 - [3D ResNet, X3D](https://github.com/facebookresearch/pytorchvideo) by Facebook Research.
 - [Video Swin Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer) by Microsoft.
 - [Video FocalNets](https://github.com/TalalWasim/Video-FocalNets).
+
