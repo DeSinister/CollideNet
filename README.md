@@ -42,7 +42,7 @@ This repo contains the PyTorch-based implementation code for CollideNet and the 
    ```
 
 
-## Training VidNeXt
+## Training CollideNet
 
 <p align="center"><img width="100%" src="assets/arch_diag_comb.jpg"/></p>
 
@@ -93,4 +93,5 @@ This project includes code and dataset borrowed from the following:
 - [3D ResNet, X3D](https://github.com/facebookresearch/pytorchvideo) by Facebook Research.
 - [Video Swin Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer) by Microsoft.
 - [Video FocalNets](https://github.com/TalalWasim/Video-FocalNets).
+
 
