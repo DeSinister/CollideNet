@@ -1,7 +1,7 @@
 <h1 align="center">CollideNet: Hierarchical Multi-scale Video Representation Learning with Disentanglement for Time-To-Collision Forecasting</h1>
 
 <h3 align="center">
-This is an anonymous repository for a paper submitted to ICPR 2026
+This paper is Accepted to ICPR 2026
 </h3>
 
 
